@@ -1,7 +1,7 @@
 .text {
-	text-align: center;
-	max-width: 500px;
-  	overflow: auto;  
+  text-align: center;
+  max-width: 500px;
+  overflow: auto;  
 }
 
 #first-paragraph {
@@ -11,5 +11,5 @@
 
 #second-paragraph {
   color:mediumseagreen;
-   font-family: sans-serif;
+  font-family: sans-serif;
 }
